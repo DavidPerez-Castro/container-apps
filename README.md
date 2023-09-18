@@ -31,4 +31,8 @@ En Docker hub encontramos las imagenes de Anaconda y Spyder, mediante la documen
 
 Anaconda:  https://hub.docker.com/r/continuumio/anaconda3
 
-Spyder:   https://hub.docker.com/r/compdatasci/spyder-desktop
+           https://docs.anaconda.com/free/anaconda/applications/docker/
+
+Spyder:    https://hub.docker.com/r/compdatasci/spyder-desktop
+
+           https://docs.spyder-ide.org/current/installation.html
